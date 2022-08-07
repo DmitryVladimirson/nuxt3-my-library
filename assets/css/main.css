@@ -1,0 +1,7 @@
+body{
+    @apply font-sans
+}
+
+.flex-center{
+    @apply flex flex-col items-center;
+}
